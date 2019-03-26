@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MavenProject">
+  <test name="NewTest">
+    <classes>
+      <class name="MavenProject.MavenProject.NewTest"/>
+    </classes>
+  </test>
+</suite> 
